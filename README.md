@@ -1,3 +1,10 @@
+
+# Nuxt Course link
+https://www.youtube.com/watch?v=5dQMQ1BwUyc&ab_channel=Bitfumes
+
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
